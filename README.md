@@ -18,6 +18,7 @@ kamu bisa melakukan penyerangan dengan sekali klik<br>
 kamu juga bisa melakukan manual attack dengan menyesuaikan berapa lama serangan berlangsung
 
 <h3>Install</h3>
+
 ```bash
 apt update -y
 apt update -y
@@ -26,5 +27,4 @@ apt install python -y
 git clone https://github.com/fahadsyihab06/Wifi-Killer
 cd Wifi-Killer
 python WifiKiller.py
-
 ```
