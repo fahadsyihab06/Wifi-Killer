@@ -9,3 +9,11 @@
 <br><br>
 
 <b>WiFi Killer</b> adalah alat yang digunakan untuk mengganggu atau memutus koneksi perangkat dari jaringan Wi-Fi dengan cara mengirimkan paket yang merusak, seperti serangan deauth. Alat ini sering digunakan dalam pengujian keamanan jaringan untuk mendeteksi kelemahan dan potensi serangan pada Wi-Fi.
+
+<h3>Fitur-fitur</h3>
+- Auto Attack
+kamu bisa melakukan penyerangan dengan sekali klik
+- Manual attack
+kamu juga bisa melakukan manual attack dengan menyesuaikan berapa lama serangan berlangsung
+
+<h3>Tampilan Tools</h3>
