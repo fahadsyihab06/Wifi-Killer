@@ -27,7 +27,7 @@ apt install python -y
 git clone https://github.com/fahadsyihab06/Wifi-Killer
 cd Wifi-Killer
 pip install -r requirements.txt
-python WifiKiller.py
+python Wifi-Killer.sh
 ```
 
 <h3>Tampilan</h3>
