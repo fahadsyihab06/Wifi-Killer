@@ -47,5 +47,5 @@ python WifiKiller.py
 </a><br>
 </div>
 
-> Copyright C ViewTech Team 2025
+> Copyright © HackBox 2025
 > 
