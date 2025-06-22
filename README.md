@@ -32,3 +32,20 @@ python WifiKiller.py
 
 <h3>Tampilan</h3>
 <img src="Screenshot_20250622-172348.jpg"/>
+
+<div>
+<a href="https://www.tiktok.com/@hackbox_id?_t=ZS-8xPmTgfrpMA&_r=1" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+</a><br>
+
+<a href="https://youtube.com/@hackboxid?si=hpJStjoGQpR1zw_5" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a><br>
+
+<a href="https://www.instagram.com/hackbox_id?igsh=MTIxcTYxYmh6NTZmdg==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a><br>
+</div>
+
+> Copyright C ViewTech Team 2025
+> 
