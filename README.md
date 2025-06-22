@@ -18,8 +18,7 @@ kamu bisa melakukan penyerangan dengan sekali klik<br>
 kamu juga bisa melakukan manual attack dengan menyesuaikan berapa lama serangan berlangsung
 
 <h3>Install</h3>
-bash 
-```
+```bash
 apt update -y
 apt update -y
 apt install git -y
