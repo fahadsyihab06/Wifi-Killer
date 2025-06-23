@@ -21,6 +21,7 @@ kamu juga bisa melakukan manual attack dengan menyesuaikan berapa lama serangan 
 - Tidak perlu root <br>
 - Tidak perlu alat tambahan
 <br>
+
 ```bash
 apt update -y
 apt update -y
