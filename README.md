@@ -18,6 +18,8 @@ kamu bisa melakukan penyerangan dengan sekali klik<br>
 kamu juga bisa melakukan manual attack dengan menyesuaikan berapa lama serangan berlangsung
 
 <h3>Install</h3>
+- Tidak perlu root <br>
+- Tidak perlu alat tambahan
 
 ```bash
 apt update -y
